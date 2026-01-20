@@ -10,7 +10,7 @@ if文ではなく正規表現で読み取りを行っています。<br>
 <br>
 ## 機能一覧<br>
 ### ・四則演算＋剰余計算、実数<br>
-和「<span style="color: red; ">数＋数</span>」、差「<span style="color: red; ">数-数</span?」、積「<span style="color: red; ">数*数</span>」、商「<span style="color: red; ">数/数</span>」、余「<span style="color: red; ">数%数</span>」<br>
+和「<span style="color: red; ">数＋数</span>」、差「<span style="color: red; ">数-数</span>」、積「<span style="color: red; ">数*数</span>」、商「<span style="color: red; ">数/数</span>」、余「<span style="color: red; ">数%数</span>」<br>
 　・少数の計算も可能<br>
   ・空白が間に含まれても計算可能<br>
 <br>
