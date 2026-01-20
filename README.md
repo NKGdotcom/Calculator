@@ -45,6 +45,7 @@ e(大文字小文字どちらでも認識)でネイピア数を定義<br>
 ### ・ルートの実装<br>
 ルート「<span style="color: red; ">r数</span>」<br>
 ・rの間に空白があっても計算可能<br>
+<br>
 ### ・Save機能の実装<br>
 前の計算結果を保存する機能「<span style="color: red; ">save</span>」(小文字のみ)<br>
 ・saveができると「数を保存しました」と出力される<br>
